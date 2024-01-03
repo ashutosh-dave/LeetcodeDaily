@@ -1,7 +1,7 @@
 #include <vector>
 #include <unordered_map>
 
-class Solution {
+class Solution{
 public:
     // Function to find a matrix from a given vector
     // The matrix is constructed by grouping identical elements together
